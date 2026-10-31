@@ -1,0 +1,24 @@
+[
+    {
+        "Player": [
+            "Magnus Carlsen",
+            "Fabiano Caruana",
+            "Hikaru Nakamura",
+            "Javokhir Sindarov",
+            "Vincent Keymer",
+            "Nodirbek Abdusattorov",
+            "Wesley So",
+            "Anish Giri",
+            "Arjun Erigaisi",
+            "Wei Yi"
+        ],
+        "Rating": [
+            2823, 2792, 2792, 2777, 2767,
+            2766, 2765, 2764, 2757, 2753
+        ],
+        "Birth Year": [
+            1990, 1992, 1987, 2005, 2004,
+            2005, 1993, 1994, 2003, 1999
+        ]
+    }
+]
